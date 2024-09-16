@@ -1,5 +1,5 @@
 # Blackjack
-Blackjack game against computer (mips)
+Blackjack game against computer, runs on MARS MIPS simulator
 
 il programma permette di giocare contro il computer a un game di blackjack.
 all'inizio della partita vengono pescate 2 carte per giocatore
