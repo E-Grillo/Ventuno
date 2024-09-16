@@ -273,7 +273,6 @@ inc_computer_ace:
 # Aggiusta il valore degli assi da 11 a 1 se la mano supera 21
 adjust_aces:
 	li $t4, 21        # Valore massimo consentito
-	li $t5, 11        # Valore di un asso
 	ble $t0, $t4, adjust_computer_aces # Se il totale del giocatore <= 21, aggiusta gli assi del computer
 	blez $t2, adjust_computer_aces # Se non ci sono assi, salta l'aggiustamento
 	
