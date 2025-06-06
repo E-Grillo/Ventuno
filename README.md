@@ -1,7 +1,7 @@
-# Blackjack
+# Ventuno
 Blackjack game against computer, runs on MARS MIPS simulator
 
-il programma permette di giocare contro il computer a un game di blackjack.
+il programma permette di giocare contro il computer a un game di ventuno.
 all'inizio della partita vengono pescate 2 carte per giocatore
 ad ogni turno ogni giocatore sceglie se pescare un'altra carta o fermarsi al valore attuale
 l'obiettivo è arrivare a 21, se si eccede il valore si perde il game
