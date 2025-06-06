@@ -1,5 +1,5 @@
 # Ventuno
-Blackjack game against computer, runs on MARS MIPS simulator
+Permette di simulare una partita a ventuno contro un computer. Realizzato per essere eseguito su MARS (simulatore MIPS).
 
 il programma permette di giocare contro il computer a un game di ventuno.
 all'inizio della partita vengono pescate 2 carte per giocatore
